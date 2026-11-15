@@ -115,7 +115,7 @@ Each page is processed independently, allowing multi-page documents with differe
 
 ## License
 
-No license has been specified. All rights are reserved unless the copyright holder grants permission separately.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
